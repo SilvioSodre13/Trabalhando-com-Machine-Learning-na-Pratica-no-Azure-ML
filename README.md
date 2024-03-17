@@ -48,6 +48,47 @@ E será direcionado para esta tela e nela deverá ser selecionado  **ML Automati
 
 ### Seguem as telas com execução das orientações acima :
 
+<img src="Imagens/7.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+
+<img src="Imagens/8.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/9.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/10.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/12.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/13.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/14.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/15.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/16.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/17.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/18.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/19.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/20.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/21.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/22.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/23.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/24.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/25.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+<img src="Imagens/26.ConfiguracaoMLStudio_TreinamentoModelo.png">
+
+
+
 
 
 
