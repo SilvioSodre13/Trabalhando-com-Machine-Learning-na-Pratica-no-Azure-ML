@@ -10,3 +10,15 @@ Nesse projeto foi criado um Modelo de Regressão usando o Azure Machine Learning
 1 . Logar no AZURE e criar um workspace do AZURE Machine Learning
 
 Para isso, você precisa chegar nessa tela :
+
+<img src="/Imagens/1.%20Create%20an%20Azure%20Machine%20Learning%20workspace.png">
+
+
+Seguem as orientações do Microsoft Learn para criação do Workspace :
+
+
+
+ 
+
+
+
