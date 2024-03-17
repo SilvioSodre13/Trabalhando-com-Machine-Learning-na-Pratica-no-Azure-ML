@@ -35,6 +35,8 @@ E será direcionado para esta tela e nela deverá ser selecionado  **ML Automati
 <img src="Imagens/6.Newly%20Created%20Workspace.png?raw=true">
 
 
+## 3. Abaixo orientações da documentação com os passos para configurar o *Azure Machine Learning Studio* e orientações de como treinar o modelos:
+
 
 
 
