@@ -13,8 +13,13 @@ Para isso, você precisa chegar nessa tela :
 
 <img src="/Imagens/1.%20Create%20an%20Azure%20Machine%20Learning%20workspace.png">
 
+<img scr="">
+<img scr="">
+
 
 Seguem as orientações do Microsoft Learn para criação do Workspace :
+
+<img src="Imagens/Orientacoes%20para%20criar%20workspace.png">
 
 
 
