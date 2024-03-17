@@ -7,7 +7,7 @@ Nesse projeto foi criado um Modelo de Regressão usando o Azure Machine Learning
 ## Segue a sequência de etapas (Passo a passo) para obtenção do objetivo : 
 
 
-1 . Logar no AZURE e criar um workspace do AZURE Machine Learning
+## 1 . Logar no AZURE e criar um workspace do AZURE Machine Learning
 
 Para isso, você precisa chegar nessa tela :
 
@@ -24,15 +24,18 @@ Para isso, você precisa chegar nessa tela :
 <img src="Imagens/Orientacoes%20para%20criar%20workspace.png">
 
 
-2. Depois de criado o worspace, a tela abaixo será apresentada e devera ser selecionado Launch Estudio
+## 2. Depois de criado o worspace, a tela abaixo será apresentada e devera ser selecionado **Launch Estudio**
  
 
 <img src="Imagens/3.Launch%20Estudio.png">
 
 
-E será direcionado para esta tela :
+E será direcionado para esta tela e nela deverá ser selecionado  **ML Automatizado**:
 
-<img src="Imagens/6.Newly%20Created%20Worspace.png">
+<img src="Imagens/6.Newly%20Created%20Workspace.png?raw=true">
+
+
+
 
 
 
