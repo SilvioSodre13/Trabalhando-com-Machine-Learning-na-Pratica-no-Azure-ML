@@ -24,8 +24,19 @@ Para isso, você precisa chegar nessa tela :
 <img src="Imagens/Orientacoes%20para%20criar%20workspace.png">
 
 
-
+2. Depois de criado o worspace, a tela abaixo será apresentada e devera ser selecionado Launch Estudio
  
+
+<img src="Imagens/3.Launch%20Estudio.png">
+
+
+E será direcionado para esta tela :
+
+<img src="Imagens/6.Newly%20Created%20Worspace.png">
+
+
+
+
 
 
 
