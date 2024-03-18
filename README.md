@@ -97,6 +97,15 @@ Vamos avaliar o melhor modelo treinado e os graficos de **residuos** e **predito
 ## 5. Implantação do Modelo
 
 
+<img src="Imagens/0.ImplantarModelo.png">
+<img src="Imagens/1.ImplantarModelo.png">
+<img src="Imagens/2.ImplantarModelo.png">
+<img src="Imagens/3.ImplantarModelo.png">
+<img src="Imagens/4.ImplantarModelo.png">
+
+
+
+
 
 
 
