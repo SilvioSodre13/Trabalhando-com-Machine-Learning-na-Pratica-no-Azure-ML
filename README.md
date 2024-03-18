@@ -84,7 +84,16 @@ E será direcionado para esta tela e nela deverá ser selecionado  **ML Automati
 
 <img src="Imagens/26.ConfiguracaoMLStudio_TreinamentoModelo.png">
 
-## 4. Avaliando o Melhor Modelo: 
+## 4. Avaliando o Melhor Modelo.
+
+Vamos avaliar o melhor modelo treinado e os graficos de **residuos** e **predito_true** . Abaixo  a orientação da documentação e em seguida as telas da execução.
+
+<img src="Imagens/0.AvaliandoModeloeoGraficocomMetricas.png">
+<img src="Imagens/1.AvaliandoModeloeoGraficocomMetricas.png">
+<img src="Imagens/2.AvaliandoModeloeoGraficocomMetricas.png">
+<img src="Imagens/3.AvaliandoModeloeoGraficocomMetricas.png">
+
+
 
 
 
