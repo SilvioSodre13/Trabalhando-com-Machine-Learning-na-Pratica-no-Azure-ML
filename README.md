@@ -84,6 +84,8 @@ E será direcionado para esta tela e nela deverá ser selecionado  **ML Automati
 
 <img src="Imagens/26.ConfiguracaoMLStudio_TreinamentoModelo.png">
 
+## 4. Avaliando o Melhor Modelo: 
+
 
 
 
