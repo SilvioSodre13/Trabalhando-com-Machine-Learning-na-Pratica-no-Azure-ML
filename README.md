@@ -94,6 +94,15 @@ Vamos avaliar o melhor modelo treinado e os graficos de **residuos** e **predito
 <img src="Imagens/3.AvaliandoModeloeoGraficocomMetricas.png">
 
 
+## 5. Implantação do Modelo
+
+
+
+
+
+## 6. Teste do Modelo
+
+
 
 
 
