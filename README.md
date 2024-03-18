@@ -50,14 +50,11 @@ E será direcionado para esta tela e nela deverá ser selecionado  **ML Automati
 
 <img src="Imagens/7.ConfiguracaoMLStudio_TreinamentoModelo.png">
 
-
 <img src="Imagens/8.ConfiguracaoMLStudio_TreinamentoModelo.png">
 
 <img src="Imagens/9.ConfiguracaoMLStudio_TreinamentoModelo.png">
 
 <img src="Imagens/10.ConfiguracaoMLStudio_TreinamentoModelo.png">
-
-<img src="Imagens/12.ConfiguracaoMLStudio_TreinamentoModelo.png">
 
 <img src="Imagens/13.ConfiguracaoMLStudio_TreinamentoModelo.png">
 
