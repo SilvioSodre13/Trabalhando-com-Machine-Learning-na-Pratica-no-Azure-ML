@@ -2,7 +2,7 @@
 
 Objetivo : Criar um Modelo de Previsão no Azure Machine Learning 
 
-Nesse projeto foi criado um Modelo de Regressão usando o Azure Machine Learning com as orientações da [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html) e as aulas do BOOTCAMP da [DIO](https://web.dio.me/) em parceria com a Microsoft.
+Nesse projeto foi criado um Modelo de Regressão usando o Azure Machine Learning com o aprendizado do BOOTCAMP Microsoft Azure AI Fundamentals da [DIO](https://web.dio.me/) e com as orientações [Microsoft Learn](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/01-machine-learning.html)
 
 ## Segue a sequência de etapas (Passo a passo) para obtenção do objetivo : 
 
@@ -14,9 +14,6 @@ Para isso, você precisa chegar nessa tela :
 <img src="/Imagens/1.%20Create%20an%20Azure%20Machine%20Learning%20workspace.png">
 
 <img src="Imagens/2.Select%20Review%20%2B%20Create.png">
-
-
-
 
 
 # Seguem as orientações do Microsoft Learn para criação do Workspace :
@@ -96,20 +93,31 @@ Vamos avaliar o melhor modelo treinado e os graficos de **residuos** e **predito
 
 ## 5. Implantação do Modelo
 
+Orientação da documentação para implantar o modelo:
 
 <img src="Imagens/0.ImplantarModelo.png">
+
+Telas com a execução das orientações acima :
+
 <img src="Imagens/1.ImplantarModelo.png">
 <img src="Imagens/2.ImplantarModelo.png">
 <img src="Imagens/3.ImplantarModelo.png">
 <img src="Imagens/4.ImplantarModelo.png">
 
 
-
-
-
-
-
 ## 6. Teste do Modelo
+
+Orientação da documentação para testar o modelo :
+
+<img src="Imagens/0.TestandoModelo.png">
+
+Telas com a execução da orientação :
+
+<img src="Imagens/1.TestandoModelo.png">
+<img src="Imagens/2.TestandoModelo.png">
+
+
+# Fim
 
 
 
